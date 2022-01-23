@@ -1,14 +1,13 @@
 .App {
-    display: grid;
+
     height: 100vh;
-    grid-template-rows: 10% 80% 10%;
-    grid-template-columns: 3fr 7fr;
+
 
 }
 
 .main {
-    grid-column: 2/3;
-    grid-row: 2/3
+
+    background: linear-gradient(#bccae4, #9b9ca2);
 }
 .header {
     grid-column: 1/3;

@@ -3,3 +3,6 @@
     grid-row: 2/3;
     margin-right: 20px;
 }
+body {
+    background: linear-gradient(#bccae4, #9b9ca2);
+}
